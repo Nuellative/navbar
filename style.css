@@ -1,0 +1,59 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.navbar{ height: 70px;
+background-color: blue;
+display: flex;
+justify-content: space-between;
+
+ }
+
+.img1{
+	height: 50px;
+	width: 50px;
+	border-radius: 30px
+}
+
+.imgdiv{
+	padding-top: 10px;
+	padding-left: 15px
+}
+
+.divbtn{
+	padding-top: 10px;
+	padding-right: 25px
+}
+
+.btn1{
+	background-color: black;
+	color: white;
+	border-radius: 2rem;
+	padding: 1rem;
+	cursor: pointer;
+}
+
+.hero-content{ 
+	background-color: pink;
+height: 100vh;
+display: flex }
+
+.img2{
+	height: 50vh;
+	padding-top: 4rem;
+	padding-left: 5rem;
+	
+}
+
+.divbtn2{
+	padding-top: 8rem;
+	padding-left: 5rem;
+}
+
+.btn-2{
+	background-color:blue;
+	border: 0px;
+	color: white;
+	padding: 5px;
+}
